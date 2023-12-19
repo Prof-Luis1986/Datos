@@ -1,0 +1,26 @@
+body {
+    font-family: 'Comic Sans MS', cursive;
+    background: linear-gradient(to right, #ff0000, #00ff00); /* Degradado de rojo a verde */
+    color: white;
+    text-align: center;
+}
+
+#container {
+    margin: 50px;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.8); /* Fondo semi-transparente blanco */
+    border-radius: 10px;
+}
+
+h1 {
+    color: red; /* Color del título en rojo */
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+div {
+    margin-top: 20px;
+    padding: 20px;
+    border: 2px solid #ffffff; /* Borde blanco */
+    border-radius: 10px;
+}
